@@ -221,3 +221,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# NutriRAG local secrets and temporary files
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.tmp
+*.temp
+.DS_Store
